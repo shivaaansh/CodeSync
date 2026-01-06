@@ -1,0 +1,1 @@
+<h2>reduce-array-size-to-the-half Notes</h2><hr>[ Time taken: 3 d 4 hrs 30 m 12 s ]
