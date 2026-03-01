@@ -26,6 +26,6 @@ public:
                 e = m;
             }
         }
-        return e;
+        return s;
     }
 };
